@@ -1,5 +1,5 @@
 // 必要によって書き換え
-const BASE_URL = "http://13.231.219.179";
+const BASE_URL = "http://43.207.166.13";
 
 // 対象URLを作成する
 export function url(path) {
